@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CustomListApp</string>
+    <string name="sortABC">ABC</string>
+    <string name="sortAge">Age</string>
+    <string name="add">Add</string>
+    <string name="nameLabel">Name</string>
+    <string name="ageLabel">Age</string>
+    <string name="numberLabel">Number</string>
+    <string name="nameHint">Name</string>
+    <string name="ageHint">Age</string>
+    <string name="pictureNumberHint">Picture Number</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+</resources>
